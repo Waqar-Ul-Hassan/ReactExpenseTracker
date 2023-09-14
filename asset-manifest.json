@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactExpenseTracker/static/css/main.eced8e74.css",
+    "main.js": "/ReactExpenseTracker/static/js/main.230fb486.js",
+    "index.html": "/ReactExpenseTracker/index.html",
+    "main.eced8e74.css.map": "/ReactExpenseTracker/static/css/main.eced8e74.css.map",
+    "main.230fb486.js.map": "/ReactExpenseTracker/static/js/main.230fb486.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eced8e74.css",
+    "static/js/main.230fb486.js"
+  ]
+}
